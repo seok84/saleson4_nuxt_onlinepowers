@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13">
+  <g id="그룹_34106" data-name="그룹 34106" transform="translate(-2047 -331)">
+    <circle id="타원_242" data-name="타원 242" cx="6.5" cy="6.5" r="6.5" transform="translate(2047 331)" fill="#fff"/>
+    <path id="타원_242_-_윤곽선" data-name="타원 242 - 윤곽선" d="M6.5,1A5.5,5.5,0,1,0,12,6.5,5.506,5.506,0,0,0,6.5,1m0-1A6.5,6.5,0,1,1,0,6.5,6.5,6.5,0,0,1,6.5,0Z" transform="translate(2047 331)" fill="#ff5454"/>
+    <path id="사각형_27358" data-name="사각형 27358" d="M0,0H1V5H0Z" transform="translate(2054 341) rotate(180)" fill="#ff5454"/>
+    <path id="사각형_27359" data-name="사각형 27359" d="M0,0H1V1H0Z" transform="translate(2054 335) rotate(180)" fill="#ff5454"/>
+  </g>
+</svg>
